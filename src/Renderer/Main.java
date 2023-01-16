@@ -5,7 +5,7 @@ public class Main {
 		
 		JFrame frame = new JFrame();
 		
-		frame.setBounds(100,100,500,500);
+		frame.setBounds(100, 100, Constants.window_width, Constants.window_height);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setVisible(true);
 		
