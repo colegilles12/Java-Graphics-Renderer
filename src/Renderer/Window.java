@@ -16,7 +16,7 @@ public class Window extends JPanel{
 		frame.setBounds(100, 100, Constants.window_width, Constants.window_height);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setVisible(true);
-		
+
 	}
 	
 	public void paint (Graphics g) {
